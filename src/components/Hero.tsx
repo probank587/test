@@ -11,7 +11,7 @@ function Hero({ onGetLoanClick }: HeroProps) {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-5xl font-bold text-gray-900 mb-6 leading-tight">
-              Деньги на карту <span className="text-emerald-600">за 15 минут</span>
+              Займ онлайн <span className="text-emerald-600">за 15 минут</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8">
               Онлайн-займы до 100 000 ₽ без справок и поручителей. Быстрое решение, простое оформление.
