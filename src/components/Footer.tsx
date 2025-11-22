@@ -16,7 +16,7 @@ function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold text-lg mb-4">О компании</h3>
+            <p className="font-semibold text-lg mb-4">О компании</p>
             <ul className="space-y-2 text-sm">
               <li><a href="#" className="text-gray-400 hover:text-emerald-400 transition">О нас</a></li>
               <li><a href="#" className="text-gray-400 hover:text-emerald-400 transition">Как получить займ</a></li>
@@ -26,7 +26,7 @@ function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold text-lg mb-4">Клиентам</h3>
+            <p className="font-semibold text-lg mb-4">Клиентам</p>
             <ul className="space-y-2 text-sm">
               <li><a href="#" className="text-gray-400 hover:text-emerald-400 transition">Личный кабинет</a></li>
               <li><a href="#" className="text-gray-400 hover:text-emerald-400 transition">Способы погашения</a></li>
@@ -36,7 +36,7 @@ function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold text-lg mb-4">Контакты</h3>
+            <p className="font-semibold text-lg mb-4">Контакты</p>
             <ul className="space-y-3 text-sm">
               <li className="flex items-center space-x-2 text-gray-400">
                 <Phone className="w-4 h-4 text-emerald-400" />
