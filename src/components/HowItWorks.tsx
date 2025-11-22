@@ -52,9 +52,9 @@ function HowItWorks() {
                   <step.icon className="w-8 h-8 text-emerald-600" />
                 </div>
 
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">
+                <p className="text-xl font-semibold text-gray-900 mb-2">
                   {step.title}
-                </h3>
+                </p>
 
                 <p className="text-gray-600 mb-3">
                   {step.description}
