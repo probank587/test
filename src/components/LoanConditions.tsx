@@ -62,9 +62,9 @@ function LoanConditions({ onGetLoanClick }: LoanConditionsProps) {
               <div className="bg-emerald-100 w-12 h-12 rounded-lg flex items-center justify-center mb-4">
                 <condition.icon className="w-6 h-6 text-emerald-600" />
               </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
                 {condition.title}
-              </h3>
+              </p>
               <ul className="space-y-2">
                 {condition.items.map((item, idx) => (
                   <li key={idx} className="text-gray-600 flex items-start">
