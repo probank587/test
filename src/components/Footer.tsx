@@ -60,7 +60,7 @@ function Footer() {
 
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 text-sm text-gray-400">
-            <p>© 2024 БыстроЗайм. Все права защищены.</p>
+            <p>© 2025 БыстроЗайм. Все права защищены.</p>
             <div className="flex space-x-6">
               <a href="#" className="hover:text-emerald-400 transition">Пользовательское соглашение</a>
               <a href="#" className="hover:text-emerald-400 transition">Политика конфиденциальности</a>
