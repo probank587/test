@@ -55,9 +55,9 @@ function Benefits() {
               <div className="bg-emerald-100 w-14 h-14 rounded-lg flex items-center justify-center mb-4">
                 <benefit.icon className="w-7 h-7 text-emerald-600" />
               </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">
+              <p className="text-xl font-semibold text-gray-900 mb-2">
                 {benefit.title}
-              </h3>
+              </p>
               <p className="text-gray-600 leading-relaxed">
                 {benefit.description}
               </p>
